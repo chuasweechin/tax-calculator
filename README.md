@@ -2,8 +2,8 @@
 Build using React
 
 # Installation
-- npm install
-- npm run build
-- npm run start
-- visit http://localhost:3000/
-- done
+1. npm install
+2. npm run build
+3. npm run start
+4. visit http://localhost:3000/
+5. done
